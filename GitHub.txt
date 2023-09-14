@@ -1,0 +1,52 @@
+lspersonal Access token of GitHub : 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
+
+---------pushing to git -------
+
+
+1.    Create a new git repository in your github account 
+
+2.    pwd (display current working directory)
+
+3.    mkdir tutorial-2 (creating a new directory)
+
+4.    cd tutorial-2 (tutorial-2  is the working directory)
+
+5.    pwd (to check current directory)
+
+6.	ls -a (to check .git present or Not)
+
+7.	git config --global user.name "prashanth"
+
+8.	git config --global user.email "prashantht355@gmail.com"
+
+9.	git config --global color.ui auto
+
+10.	git config -l
+
+11.	git init (to create empty local repository ..!.not required .git present)
+
+12.	ls -a (to check whether {.git} created or not )
+
+13.	git remote add origin https://github.com/icecream-dev/tutoiral-2.git   (create a connection between local repository and remote repository github)
+
+14.	git remote -v (to see origin created or not )
+
+15.	git add -A  (add code changes in the file to staging area) - ( add -A means it add all the files)
+
+16.	git status	(whether added to staging area show in green color)
+
+17.	git commit -m "commit-message" (to make the committs) 
+
+18.	git log (check whether commit made or not)
+
+19. 	git branch -M main (adding the code changes)
+
+20.	git push -u origin main (to push the local repository changes to remote repository) 
+
+21.  username of github : prashanth5588
+
+22.	password of githud :  Personal Access token (PAT) - 
+					(   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  )
+
+12. 	
+
