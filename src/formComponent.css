@@ -1,0 +1,40 @@
+.content-container {
+    background-color: rgb(236, 236, 225);
+    padding: 15px;
+    border-radius: 20px;
+    width: fit-content;
+    margin-top: 10vh;
+    
+}
+
+.heading2 {
+    color: darkgoldenrod;
+}
+
+.heading4 {
+    color: rgb(141, 38, 236);
+    margin: 8px;
+}
+
+
+input {
+    margin: 6px;
+}
+
+.area1 {
+    margin: 5px;
+}
+
+.below-details {
+    background-color: white;
+    padding: 15px;
+    border-radius: 20px;
+    width: fit-content;
+    margin-top: 10vh;
+    
+}
+
+p {
+    color: black;
+    
+}
